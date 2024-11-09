@@ -1,0 +1,273 @@
+[15:04:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:04:45] [ServerMain/INFO]: Loaded 1337 recipes
+[15:04:45] [ServerMain/INFO]: Loaded 1448 advancements
+[15:04:46] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[15:04:46] [Server thread/INFO]: Loading properties
+[15:04:46] [Server thread/INFO]: Default game type: SURVIVAL
+[15:04:46] [Server thread/INFO]: Generating keypair
+[15:04:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:04:46] [Server thread/INFO]: Using epoll channel type
+[15:04:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:04:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:04:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:04:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:04:46] [Server thread/INFO]: Preparing level "world"
+[15:04:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:04:52] [Server thread/INFO]: Time elapsed: 5565 ms
+[15:04:52] [Server thread/INFO]: Done (5.898s)! For help, type "help"
+[15:04:53] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:39394] logged in with entity id 83 at (216.69372155447363, 14.0, 617.6999999880791)
+[15:04:53] [Server thread/INFO]: avighnakc joined the game
+[15:04:53] [Server thread/INFO]: avighnakc has made the advancement [Stone Age]
+[15:04:53] [Server thread/INFO]: avighnakc has made the advancement [Getting an Upgrade]
+[15:07:06] [Server thread/INFO]: Minley[/[0:0:0:0:0:0:0:1%0]:57388] logged in with entity id 413 at (-3.5, 81.0, 2.5)
+[15:07:06] [Server thread/INFO]: Minley joined the game
+[15:07:10] [Server thread/INFO]: [Not Secure] <Minley> bruh
+[15:07:18] [Server thread/INFO]: [Not Secure] <avighnakc> hello there
+[15:07:27] [Server thread/INFO]: [Not Secure] <Minley> hi
+[15:07:41] [Server thread/INFO]: [Not Secure] <Minley> where are you sir
+[15:07:54] [Server thread/INFO]: [Not Secure] <avighnakc> some super random aah place
+[15:07:58] [Server thread/INFO]: [Not Secure] <avighnakc> 216 12 566 :skull:
+[15:08:01] [Server thread/INFO]: [Not Secure] <Minley> lmao
+[15:08:04] [Server thread/INFO]: [Not Secure] <Minley> so far
+[15:08:53] [Server thread/INFO]: Minley has made the advancement [Monster Hunter]
+[15:09:35] [Server thread/INFO]: avighnakc has made the advancement [Acquire Hardware]
+[15:09:37] [Server thread/INFO]: [Not Secure] <Minley> bro my left ctrl not being recognised by mc
+[15:09:54] [Server thread/INFO]: avighnakc has made the advancement [Isn't It Iron Pick]
+[15:11:02] [Server thread/INFO]: Minley has made the advancement [Stone Age]
+[15:11:36] [Server thread/INFO]: [Not Secure] <Minley> what is the difficulty?
+[15:11:44] [Server thread/INFO]: Minley has made the advancement [Getting an Upgrade]
+[15:13:15] [Server thread/INFO]: Minley fell from a high place
+[15:13:19] [Server thread/INFO]: [Not Secure] <Minley> erhm
+[15:13:41] [Server thread/INFO]: [Not Secure] <avighnakc> 💀
+[15:15:16] [Server thread/INFO]: [Not Secure] <Minley> chappel roan w/ mc is so good
+[15:15:55] [Server thread/INFO]: [Not Secure] <Minley> minihud is not available for 1.21.3 :c
+[15:17:25] [Server thread/INFO]: [Not Secure] <Minley> boring birch biome
+[15:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[15:18:16] [Server thread/INFO]: avighnakc has made the advancement [Monster Hunter]
+[15:20:32] [Server thread/INFO]: [Not Secure] <Minley> sir should i come to you
+[15:20:44] [Server thread/INFO]: [Not Secure] <avighnakc> like i said im at a rlly random place
+[15:25:24] [Server thread/INFO]: avighnakc has made the advancement [Suit Up]
+[15:26:53] [Server thread/INFO]: Jewellized[/[0:0:0:0:0:0:0:1%0]:32964] logged in with entity id 7391 at (1.5, 73.0, 8.5)
+[15:26:53] [Server thread/INFO]: Jewellized joined the game
+[15:27:00] [Server thread/INFO]: [Not Secure] <Jewellized> haiii :D
+[15:27:02] [Server thread/INFO]: [Not Secure] <avighnakc> this is priyanka right
+[15:27:05] [Server thread/INFO]: [Not Secure] <avighnakc> ok yes def is
+[15:27:07] [Server thread/INFO]: [Not Secure] <Jewellized> yessirrrr
+[15:27:10] [Server thread/INFO]: [Not Secure] <Minley> HI
+[15:27:13] [Server thread/INFO]: [Not Secure] <Minley> hi*
+[15:27:15] [Server thread/INFO]: Minley has made the advancement [Sweet Dreams]
+[15:27:21] [Server thread/INFO]: [Not Secure] <avighnakc> sleeping doesnt work
+[15:27:24] [Server thread/INFO]: [Not Secure] <Minley> :c
+[15:27:24] [Server thread/INFO]: [Not Secure] <avighnakc> on multiplayer
+[15:27:27] [Server thread/INFO]: Jewellized has made the advancement [Monster Hunter]
+[15:27:32] [Server thread/INFO]: [Not Secure] <Minley> need mods :c
+[15:27:34] [Server thread/INFO]: [Not Secure] <avighnakc> prolly should install a mod for that ngl
+[15:27:35] [Server thread/INFO]: [Not Secure] <Jewellized> why eeping off
+[15:27:35] [Server thread/INFO]: [Not Secure] <avighnakc> yea
+[15:27:39] [Server thread/INFO]: [Not Secure] <Jewellized> yeha lowk
+[15:27:39] [Server thread/INFO]: [Not Secure] <avighnakc> no like
+[15:27:43] [Server thread/INFO]: [Not Secure] <avighnakc> everyone needs
+[15:27:46] [Server thread/INFO]: [Not Secure] <avighnakc> to sleep at the same time
+[15:27:53] [Server thread/INFO]: [Not Secure] <Minley> i should just dig a hole in this villager's house
+[15:27:56] [Server thread/INFO]: [Not Secure] <Minley> :3
+[15:28:01] [Server thread/INFO]: [Not Secure] <avighnakc> nice you found a village?
+[15:28:01] [Server thread/INFO]: [Not Secure] <Minley> go mining and shi
+[15:28:03] [Server thread/INFO]: [Not Secure] <Minley> tmm
+[15:28:12] [Server thread/INFO]: [Not Secure] <Minley> generic ahh village tho
+[15:28:29] [Server thread/INFO]: [Not Secure] <avighnakc> enchanting books
+[15:28:31] [Server thread/INFO]: [Not Secure] <avighnakc> librarians
+[15:28:33] [Server thread/INFO]: [Not Secure] <Minley> nope
+[15:28:35] [Server thread/INFO]: [Not Secure] <Jewellized> enchanting boobs
+[15:28:42] [Server thread/INFO]: [Not Secure] <Minley> mine :drool:
+[15:28:48] [Server thread/INFO]: [Not Secure] <Jewellized> samik agrees w my statement
+[15:28:50] [Server thread/INFO]: [Not Secure] <Jewellized> idk ab urs
+[15:28:51] [Server thread/INFO]: [Not Secure] <avighnakc> 👌
+[15:29:02] [Server thread/INFO]: [Not Secure] <Minley> lyra influence
+[15:29:02] [Server thread/INFO]: [Not Secure] <Jewellized> samik says @minley he wants ur tiddies
+[15:29:09] [Server thread/INFO]: [Not Secure] <avighnakc> na
+[15:29:11] [Server thread/INFO]: [Not Secure] <avighnakc> id win
+[15:29:16] [Server thread/INFO]: [Not Secure] <Minley> so true i want avighna's tiddies
+[15:29:27] [Server thread/INFO]: [Not Secure] <Minley> what time is it
+[15:30:11] [Server thread/INFO]: [Not Secure] <avighnakc> bro iforgot to make shield
+[15:30:17] [Server thread/INFO]: [Not Secure] <Minley> TKEKW
+[15:30:37] [Server thread/INFO]: [Not Secure] <Minley> priy send coord
+[15:30:46] [Server thread/INFO]: [Not Secure] <Jewellized> w8
+[15:30:49] [Server thread/INFO]: [Not Secure] <Jewellized> one heart
+[15:30:51] [Server thread/INFO]: [Not Secure] <Jewellized> is there tp
+[15:30:55] [Server thread/INFO]: [Not Secure] <avighnakc> no
+[15:30:55] [Server thread/INFO]: [Not Secure] <Minley> no
+[15:30:58] [Server thread/INFO]: [Not Secure] <Jewellized> BOOOOO
+[15:30:59] [Server thread/INFO]: [Not Secure] <Minley> vanilla :3
+[15:31:01] [Server thread/INFO]: [Not Secure] <Minley> vanilla funner
+[15:31:04] [Server thread/INFO]: [Not Secure] <Jewellized> NO
+[15:31:05] [Server thread/INFO]: [Not Secure] <avighnakc> ^^
+[15:31:09] [Server thread/INFO]: [Not Secure] <Jewellized> I LIKE MY MINECRAFT KINKY
+[15:31:10] [Server thread/INFO]: [Not Secure] <avighnakc> (to minley statement)
+[15:31:14] [Server thread/INFO]: [Not Secure] <avighnakc> (not priyanka)
+[15:31:14] [Server thread/INFO]: [Not Secure] <Minley> I like my porn vanilla
+[15:31:24] [Server thread/INFO]: [Not Secure] <avighnakc> wtf there is a drowned here
+[15:31:27] [Server thread/INFO]: [Not Secure] <Jewellized> cant relate
+[15:31:31] [Server thread/INFO]: [Not Secure] <Jewellized> go get that trident g
+[15:31:33] [Server thread/INFO]: [Not Secure] <Minley> should i go mining or what
+[15:32:01] [Server thread/INFO]: [Not Secure] <Minley> istg why is there no malalib for 1.21.3
+[15:32:05] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:32:05] [Server thread/INFO]: avighnakc left the game
+[15:32:14] [Server thread/INFO]: [Not Secure] <Minley> LMAO
+[15:32:18] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:43356] logged in with entity id 10013 at (207.57623514405202, -15.57472587780277, 499.2881164120685)
+[15:32:18] [Server thread/INFO]: avighnakc joined the game
+[15:32:29] [Server thread/INFO]: [Not Secure] <Minley> do yall want orange dye
+[15:32:40] [Server thread/INFO]: [Not Secure] <Jewellized> i want my skin
+[15:32:47] [Server thread/INFO]: [Not Secure] <Jewellized> avighna skin please
+[15:32:51] [Server thread/INFO]: [Not Secure] <Minley> this skin is not my skin
+[15:32:51] [Server thread/INFO]: [Not Secure] <avighnakc> how to do
+[15:32:55] [Server thread/INFO]: [Not Secure] <avighnakc> yea mine is neither
+[15:32:58] [Server thread/INFO]: [Not Secure] <Jewellized> gogle
+[15:33:00] [Server thread/INFO]: [Not Secure] <Minley> dune reference
+[15:33:05] [Server thread/INFO]: [Not Secure] <avighnakc> i had to turn off online mode
+[15:33:07] [Server thread/INFO]: [Not Secure] <Minley> im just alex
+[15:33:08] [Server thread/INFO]: [Not Secure] <avighnakc> so maybe thats why
+[15:33:33] [Server thread/INFO]: [Not Secure] <Minley> TURTLESSS
+[15:33:41] [Server thread/INFO]: [Not Secure] <Minley> should i kill
+[15:33:42] [Server thread/INFO]: Jewellized lost connection: Disconnected
+[15:33:42] [Server thread/INFO]: Jewellized left the game
+[15:34:02] [Server thread/INFO]: [Not Secure] <Minley> ew savannah
+[15:38:07] [Server thread/INFO]: [Not Secure] <Minley> village no. 2
+[15:38:26] [Server thread/INFO]: [Not Secure] <Minley> supe rboring tho
+[15:39:35] [Server thread/INFO]: avighnakc has made the advancement [Not Today, Thank You]
+[15:41:20] [Server thread/INFO]: [Not Secure] <Minley> boating for so long still no good ilsnad
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -3.4510304560368468,0.0,-9.810725793644679
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -3.5837623966533556,0.0,-10.188061401093137
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -3.7164943372698644,0.0,-10.565397008541595
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -3.8492262778863733,0.0,-10.942732615990053
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -3.981958218502882,0.0,-11.320068223438511
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.114690159119391,0.0,-11.697403830887197
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.2474220997359,0.0,-12.074739438335882
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.380154040352409,0.0,-12.452075045784568
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.5128859809689175,0.0,-12.829410653233253
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.645617921585426,0.0,-13.206746260681939
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.778349862201935,0.0,-13.584081868130625
+[15:41:34] [Server thread/WARN]: Oak Boat (vehicle of Minley) moved too quickly! -4.911081802818444,0.0,-13.96141747557931
+[15:41:59] [Server thread/INFO]: [Not Secure] <Minley> SPRUCE
+[15:42:48] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:42:48] [Server thread/INFO]: avighnakc left the game
+[15:43:02] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:37254] logged in with entity id 19892 at (203.30000001192093, 21.0, 302.8886965134222)
+[15:43:02] [Server thread/INFO]: avighnakc joined the game
+[15:43:07] [Server thread/INFO]: [Not Secure] <Minley> AVIGHAN
+[15:43:08] [Server thread/INFO]: [Not Secure] <Minley> LEAVE
+[15:43:09] [Server thread/INFO]: [Not Secure] <Minley> PL
+[15:43:09] [Server thread/INFO]: [Not Secure] <Minley> S
+[15:43:10] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:43:10] [Server thread/INFO]: avighnakc left the game
+[15:43:14] [Server thread/INFO]: [Not Secure] <Minley> thx
+[15:43:22] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:48596] logged in with entity id 20134 at (206.1037961871155, 21.0, 303.2876532289205)
+[15:43:22] [Server thread/INFO]: avighnakc joined the game
+[15:43:26] [Server thread/INFO]: [Not Secure] <Minley> THANKS
+[15:43:32] [Server thread/INFO]: [Not Secure] <avighnakc> np :skull:
+[15:43:37] [Server thread/INFO]: [Not Secure] <Minley> dont mind the caps my sprint key is caps
+[15:43:53] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:43:53] [Server thread/INFO]: avighnakc left the game
+[15:44:04] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:35668] logged in with entity id 20530 at (211.30000001192093, 16.575345559490394, 278.30000001192093)
+[15:44:04] [Server thread/INFO]: avighnakc joined the game
+[15:44:06] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:44:06] [Server thread/INFO]: avighnakc left the game
+[15:44:27] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:43158] logged in with entity id 20816 at (211.30000001192093, 16.0, 278.30000001192093)
+[15:44:27] [Server thread/INFO]: avighnakc joined the game
+[15:44:30] [Server thread/INFO]: [Not Secure] <Minley> you ok?
+[15:44:34] [Server thread/INFO]: [Not Secure] <avighnakc> zombies were there
+[15:44:35] [Server thread/INFO]: [Not Secure] <avighnakc> so i left
+[15:44:39] [Server thread/INFO]: [Not Secure] <avighnakc> and they also left
+[15:44:42] [Server thread/INFO]: [Not Secure] <Minley> AH
+[15:44:52] [Server thread/INFO]: [Not Secure] <Minley> but doesn't that only happen if chunk is loaded
+[15:45:06] [Server thread/INFO]: [Not Secure] <avighnakc> idk it somehow worked
+[15:45:50] [Server thread/INFO]: [Not Secure] <avighnakc> OMG
+[15:45:55] [Server thread/INFO]: avighnakc has made the advancement [Diamonds!]
+[15:45:56] [Server thread/INFO]: [Not Secure] <Minley> diamonds?
+[15:45:59] [Server thread/INFO]: [Not Secure] <Minley> :33333
+[15:46:06] [Server thread/INFO]: [Not Secure] <avighnakc> just 1
+[15:46:07] [Server thread/INFO]: [Not Secure] <avighnakc> wtf
+[15:53:48] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[15:53:48] [Server thread/INFO]: avighnakc left the game
+[15:53:58] [Server thread/INFO]: [Not Secure] <Minley> wow so coordinated
+[15:54:01] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:33886] logged in with entity id 23993 at (287.3970695342423, 72.0, 260.663106469367)
+[15:54:01] [Server thread/INFO]: avighnakc joined the game
+[15:54:06] [Server thread/INFO]: [Not Secure] <Minley> wow so coordinated
+[15:54:20] [Server thread/INFO]: [Not Secure] <avighnakc> 🔥
+[15:54:23] [Server thread/INFO]: [Not Secure] <avighnakc> need it to be day fr
+[15:55:59] [Server thread/INFO]: [Not Secure] <Minley> you can't have a door on stairs ffs
+[16:01:25] [Server thread/INFO]: [Not Secure] <avighnakc> minley do you exploit fletcher villager trade
+[16:01:32] [Server thread/INFO]: [Not Secure] <Minley> the sticky thingy?
+[16:01:35] [Server thread/INFO]: [Not Secure] <avighnakc> yes
+[16:01:41] [Server thread/INFO]: [Not Secure] <avighnakc> free emeralsds
+[16:01:46] [Server thread/INFO]: [Not Secure] <Minley> eh
+[16:01:47] [Server thread/INFO]: [Not Secure] <Minley> later
+[16:01:51] [Server thread/INFO]: [Not Secure] <Minley> imma go mining now
+[16:01:55] [Server thread/INFO]: [Not Secure] <avighnakc> what is your method sir
+[16:02:07] [Server thread/INFO]: [Not Secure] <Minley> i forgor
+[16:02:12] [Server thread/INFO]: [Not Secure] <Minley> wasn't it just sticks give
+[16:02:15] [Server thread/INFO]: [Not Secure] <Minley> get emerald
+[16:02:21] [Server thread/INFO]: [Not Secure] <avighnakc> no but you said 'ehh' right
+[16:03:19] [Server thread/INFO]: [Not Secure] <avighnakc> what u need
+[16:03:22] [Server thread/INFO]: [Not Secure] <avighnakc> i have like 50 iron
+[16:03:42] [Server thread/INFO]: [Not Secure] <Minley> wait
+[16:03:48] [Server thread/INFO]: [Not Secure] <Minley> why trade iron for emeralds
+[16:03:51] [Server thread/INFO]: [Not Secure] <Minley> trade sticks for emerald
+[16:03:53] [Server thread/INFO]: [Not Secure] <avighnakc> no
+[16:03:56] [Server thread/INFO]: [Not Secure] <avighnakc> ur going mining right
+[16:04:00] [Server thread/INFO]: [Not Secure] <Minley> yes
+[16:04:09] [Server thread/INFO]: [Not Secure] <avighnakc> why go mining if i already went mining
+[16:04:12] [Server thread/INFO]: [Not Secure] <Minley> hmm
+[16:04:14] [Server thread/INFO]: [Not Secure] <Minley> good point
+[16:04:18] [Server thread/INFO]: [Not Secure] <Minley> but im like so far away from you
+[16:04:26] [Server thread/INFO]: [Not Secure] <avighnakc> x=300 z=300 rn btw
+[16:04:28] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[16:04:28] [Server thread/INFO]: avighnakc left the game
+[16:04:37] [Server thread/INFO]: [Not Secure] <Minley> x=-777, y=-1609 me
+[16:04:49] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:38526] logged in with entity id 27555 at (289.29835032498573, 74.0, 274.7040452869481)
+[16:04:49] [Server thread/INFO]: avighnakc joined the game
+[16:04:50] [Server thread/INFO]: [Not Secure] <Minley> x=-777, y=-1609 me
+[16:04:54] [Server thread/INFO]: [Not Secure] <Minley> also gtg so cya
+[16:04:56] [Server thread/INFO]: [Not Secure] <avighnakc> wtf -1609 :skull:
+[16:04:59] [Server thread/INFO]: [Not Secure] <avighnakc> ok bye
+[16:05:03] [Server thread/INFO]: [Not Secure] <Minley> sorry
+[16:05:07] [Server thread/INFO]: [Not Secure] <Minley> x=-777,z=-1609
+[16:05:13] [Server thread/INFO]: Minley lost connection: Disconnected
+[16:05:13] [Server thread/INFO]: Minley left the game
+[16:06:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:06:37] [Server thread/INFO]: op<--[HERE]
+[16:06:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:06:40] [Server thread/INFO]: op<--[HERE]
+[16:06:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:06:43] [Server thread/INFO]: save<--[HERE]
+[16:07:14] [Server thread/INFO]: Made avighnakc a server operator
+[16:07:19] [Server thread/INFO]: [avighnakc: Saved the game]
+[16:15:00] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[16:15:00] [Server thread/INFO]: avighnakc left the game
+[16:15:03] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:37636] logged in with entity id 30988 at (573.3158319702659, 63.0, 515.4205085140544)
+[16:15:03] [Server thread/INFO]: avighnakc joined the game
+[16:15:14] [Server thread/INFO]: [avighnakc: Saved the game]
+[16:15:34] [Server thread/INFO]: avighnakc has made the advancement [Sweet Dreams]
+[16:16:12] [Server thread/INFO]: [avighnakc: Saved the game]
+[16:16:16] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[16:16:16] [Server thread/INFO]: avighnakc left the game
+[16:16:32] [Server thread/INFO]: Stopping the server
+[16:16:32] [Server thread/INFO]: Stopping server
+[16:16:32] [Server thread/INFO]: Saving players
+[16:16:32] [Server thread/INFO]: Saving worlds
+[16:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
