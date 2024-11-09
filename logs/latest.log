@@ -1,158 +1,89 @@
-[17:43:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:43:06] [ServerMain/INFO]: Loaded 1337 recipes
-[17:43:06] [ServerMain/INFO]: Loaded 1448 advancements
-[17:43:06] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:43:06] [Server thread/INFO]: Loading properties
-[17:43:06] [Server thread/INFO]: Default game type: SURVIVAL
-[17:43:06] [Server thread/INFO]: Generating keypair
-[17:43:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:43:07] [Server thread/INFO]: Using epoll channel type
-[17:43:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:43:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:43:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:43:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:43:07] [Server thread/INFO]: Preparing level "world"
-[17:43:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:43:18] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[17:43:19] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[17:43:19] [Worker-Main-1/INFO]: Preparing spawn area: 81%
-[17:43:19] [Server thread/INFO]: Time elapsed: 11709 ms
-[17:43:19] [Server thread/INFO]: Done (12.340s)! For help, type "help"
-[17:44:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:48:54] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:55706] logged in with entity id 4 at (576.8135918618788, 63.0, 517.914670579495)
-[17:48:54] [Server thread/INFO]: avighnakc joined the game
-[17:49:01] [Server thread/INFO]: avighnakc lost connection: Disconnected
-[17:49:01] [Server thread/INFO]: avighnakc left the game
-[17:49:51] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:46944] logged in with entity id 285 at (576.2005650411776, 63.0, 518.6775270462371)
-[17:49:51] [Server thread/INFO]: avighnakc joined the game
-[17:49:53] [Server thread/INFO]: avighnakc lost connection: Disconnected
-[17:49:53] [Server thread/INFO]: avighnakc left the game
-[17:50:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:51:29] [Server thread/INFO]: Minley[/[0:0:0:0:0:0:0:1%0]:34704] logged in with entity id 482 at (-775.822280908212, 63.5625, -1608.0369037058776)
-[17:51:29] [Server thread/INFO]: Minley joined the game
-[17:55:36] [Server thread/INFO]: minleysforever[/[0:0:0:0:0:0:0:1%0]:50952] logged in with entity id 1312 at (-9.5, 68.0, -7.5)
-[17:55:36] [Server thread/INFO]: minleysforever joined the game
-[17:55:40] [Server thread/INFO]: [Not Secure] <Minley> hiiii
-[17:55:42] [Server thread/INFO]: [Not Secure] <Minley> hi babey
-[17:55:45] [Server thread/INFO]: [Not Secure] <minleysforever> hiiii babe
-[17:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-6, y=69, z=-2}
-[17:56:00] [Server thread/INFO]: [Not Secure] <minleysforever> e
-[17:56:00] [Server thread/INFO]: [Not Secure] <Minley> -760, 34, -1643
-[17:56:03] [Server thread/INFO]: [Not Secure] <minleysforever> why is there so much lag
-[17:56:12] [Server thread/INFO]: [Not Secure] <minleysforever> is there spawn protection
-[17:56:22] [Server thread/INFO]: MRLOL22[/[0:0:0:0:0:0:0:1%0]:43272] logged in with entity id 1718 at (3.5, 75.0, 1.5)
-[17:56:22] [Server thread/INFO]: MRLOL22 joined the game
-[17:57:24] [Server thread/INFO]: minleysforever has made the advancement [Stone Age]
-[17:57:30] [Server thread/INFO]: [Not Secure] <Minley> IS IT OVIYAAAN
-[17:57:33] [Server thread/INFO]: [Not Secure] <Minley> WHAT THE FUCK
-[17:57:38] [Server thread/INFO]: [Not Secure] <Minley> shouldn't it be oviyan
-[17:57:45] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:33734] logged in with entity id 2149 at (576.2005650411776, 63.0, 518.6775270462371)
-[17:57:45] [Server thread/INFO]: avighnakc joined the game
-[17:57:50] [Server thread/INFO]: [Not Secure] <avighnakc> aarav username fire
-[17:57:52] [Server thread/INFO]: [Not Secure] <Minley> tHIIII avighna
-[17:57:54] [Server thread/INFO]: [Not Secure] <minleysforever> avighnawithdakc
-[17:57:55] [Server thread/INFO]: [Not Secure] <Minley> hru
-[17:57:59] [Server thread/INFO]: minleysforever has made the advancement [Getting an Upgrade]
-[17:58:03] [Server thread/INFO]: [Not Secure] <avighnakc> noo im not joining i just came to comment on the username
-[17:58:11] [Server thread/INFO]: [Not Secure] <avighnakc> :kekw:
-[17:58:12] [Server thread/INFO]: [Not Secure] <Minley> avighna
-[17:58:16] [Server thread/INFO]: [Not Secure] <Minley> please unblock
-[17:58:20] [Server thread/INFO]: [Not Secure] <avighnakc> btw guys please find a village and get stick dude
-[17:58:27] [Server thread/INFO]: [Not Secure] <Minley> tfletcher
-[17:58:28] [Server thread/INFO]: [Not Secure] <minleysforever> whats a stick dude
-[17:58:31] [Server thread/INFO]: avighnakc lost connection: Disconnected
-[17:58:31] [Server thread/INFO]: avighnakc left the game
-[17:58:43] [Server thread/INFO]: [Not Secure] <Minley> im in a village :3
-[17:58:50] [Server thread/INFO]: [Not Secure] <Minley> spruce village
-[17:59:03] [Server thread/INFO]: [Not Secure] <Minley> aarav
-[17:59:08] [Server thread/INFO]: [Not Secure] <Minley> come to me
-[17:59:09] [Server thread/INFO]: [Not Secure] <Minley> babe
-[17:59:12] [Server thread/INFO]: [Not Secure] <Minley> it's a long boat ride
-[17:59:25] [Server thread/INFO]: MRLOL22 has made the advancement [Sweet Dreams]
-[17:59:48] [Server thread/INFO]: minleysforever has made the advancement [Sweet Dreams]
-[17:59:53] [Server thread/INFO]: [Not Secure] <Minley> wait
-[17:59:54] [Server thread/INFO]: Minley lost connection: Disconnected
-[17:59:54] [Server thread/INFO]: Minley left the game
-[17:59:55] [Server thread/INFO]: [Not Secure] <minleysforever> SWEET DREAMS ARE MADE OF THIS
-[18:00:04] [Server thread/INFO]: Minley[/[0:0:0:0:0:0:0:1%0]:54380] logged in with entity id 3509 at (-769.3612636770938, 19.0, -1659.8530538116133)
-[18:00:04] [Server thread/INFO]: Minley joined the game
-[18:00:08] [Server thread/INFO]: [Not Secure] <minleysforever> LAVE
-[18:00:09] [Server thread/INFO]: Minley lost connection: Disconnected
-[18:00:09] [Server thread/INFO]: Minley left the game
-[18:00:10] [Server thread/INFO]: [Not Secure] <minleysforever> FUCK OFFF
-[18:00:14] [Server thread/INFO]: Minley[/[0:0:0:0:0:0:0:1%0]:38258] logged in with entity id 3810 at (-769.3000000119209, 19.0, -1659.6374538523617)
-[18:00:14] [Server thread/INFO]: Minley joined the game
-[18:00:19] [Server thread/INFO]: MRLOL22 has made the advancement [Stone Age]
-[18:00:29] [Server thread/INFO]: [Not Secure] <Minley> DONT KILL THE GOLEM, :((((
-[18:00:35] [Server thread/INFO]: MRLOL22 has made the advancement [Getting an Upgrade]
-[18:00:47] [Server thread/INFO]: [Not Secure] <Minley> WHAT LEVEL FOR DIAMONDS
-[18:00:56] [Server thread/INFO]: [Not Secure] <Minley> pardon the caps its my sprint key
-[18:01:03] [Server thread/INFO]: [Not Secure] <Minley> because ctrl not wokring
-[18:01:16] [Server thread/INFO]: [Not Secure] <Minley> i'll become wet for you :3
-[18:01:29] [Server thread/INFO]: [Not Secure] <Minley> i have fodo
-[18:01:30] [Server thread/INFO]: [Not Secure] <Minley> cum to me
-[18:01:49] [Server thread/INFO]: [Not Secure] <Minley> i found the deep stone
-[18:01:51] [Server thread/INFO]: [Not Secure] <Minley> deepslate
-[18:02:47] [Server thread/INFO]: [Not Secure] <Minley> bye friends
-[18:02:52] [Server thread/INFO]: [Not Secure] <Minley> gn
-[18:03:19] [Server thread/INFO]: minleysforever has made the advancement [Acquire Hardware]
-[18:03:30] [Server thread/INFO]: MRLOL22 has made the advancement [Acquire Hardware]
-[18:03:32] [Server thread/INFO]: [Not Secure] <Minley> wtf dirt doing at -3
-[18:03:57] [Server thread/INFO]: MRLOL22 has made the advancement [Isn't It Iron Pick]
-[18:04:49] [Server thread/INFO]: minleysforever has made the advancement [A Seedy Place]
-[18:05:55] [Server thread/INFO]: [Not Secure] <Minley> i got lapis
-[18:06:03] [Server thread/INFO]: [Not Secure] <Minley> so blue
-[18:07:23] [Server thread/INFO]: [Not Secure] <Minley> i have captiosn with an enderman
-[18:07:24] [Server thread/INFO]: [Not Secure] <Minley> lmao
-[18:07:53] [Server thread/INFO]: [Not Secure] <Minley> aarav send coords
-[18:08:47] [Server thread/INFO]: [Not Secure] <Minley> tweakroo
-[18:08:48] [Server thread/INFO]: [Not Secure] <Minley> goated
-[18:09:08] [Server thread/INFO]: Minley lost connection: Disconnected
-[18:09:08] [Server thread/INFO]: Minley left the game
-[18:09:22] [Server thread/INFO]: minleysforever lost connection: Disconnected
-[18:09:22] [Server thread/INFO]: minleysforever left the game
-[18:11:22] [Server thread/INFO]: minleysforever[/[0:0:0:0:0:0:0:1%0]:54542] logged in with entity id 8590 at (625.0151422673923, 54.0, -235.30000001192093)
-[18:11:22] [Server thread/INFO]: minleysforever joined the game
-[18:11:29] [Server thread/INFO]: minleysforever lost connection: Disconnected
-[18:11:29] [Server thread/INFO]: minleysforever left the game
-[18:12:50] [Server thread/INFO]: MRLOL22 has made the advancement [Monster Hunter]
-[18:13:11] [Server thread/INFO]: minleysforever[/[0:0:0:0:0:0:0:1%0]:35560] logged in with entity id 9304 at (625.0151422673923, 54.0, -235.30000001192093)
-[18:13:11] [Server thread/INFO]: minleysforever joined the game
-[18:13:20] [Server thread/INFO]: minleysforever lost connection: Disconnected
-[18:13:20] [Server thread/INFO]: minleysforever left the game
-[18:16:36] [Server thread/INFO]: Saving the game (this may take a moment!)
-[18:16:36] [Server thread/INFO]: Saved the game
-[18:16:58] [Server thread/INFO]: Stopping the server
-[18:16:58] [Server thread/INFO]: Stopping server
-[18:16:58] [Server thread/INFO]: Saving players
-[18:16:58] [Server thread/INFO]: MRLOL22 lost connection: Server closed
-[18:16:58] [Server thread/INFO]: MRLOL22 left the game
-[18:16:58] [Server thread/INFO]: Saving worlds
-[18:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:11:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:11:26] [ServerMain/INFO]: Loaded 1337 recipes
+[00:11:26] [ServerMain/INFO]: Loaded 1448 advancements
+[00:11:26] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:11:26] [Server thread/INFO]: Loading properties
+[00:11:26] [Server thread/INFO]: Default game type: SURVIVAL
+[00:11:26] [Server thread/INFO]: Generating keypair
+[00:11:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:11:26] [Server thread/INFO]: Using epoll channel type
+[00:11:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:11:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:11:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:11:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:11:26] [Server thread/INFO]: Preparing level "world"
+[00:11:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:11:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:11:27] [Server thread/INFO]: Time elapsed: 461 ms
+[00:11:27] [Server thread/INFO]: Done (0.605s)! For help, type "help"
+[00:11:34] [Server thread/INFO]: minleysforever[/[0:0:0:0:0:0:0:1%0]:58700] logged in with entity id 5 at (625.0151422673923, 54.0, -235.30000001192093)
+[00:11:34] [Server thread/INFO]: minleysforever joined the game
+[00:11:35] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:58718] logged in with entity id 206 at (576.2005650411776, 63.0, 518.6775270462371)
+[00:11:35] [Server thread/INFO]: avighnakc joined the game
+[00:11:36] [Server thread/INFO]: MRLOL22[/[0:0:0:0:0:0:0:1%0]:58706] logged in with entity id 207 at (84.63651315957989, 62.9375, -187.2748474299417)
+[00:11:36] [Server thread/INFO]: MRLOL22 joined the game
+[00:11:38] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[00:11:38] [Server thread/INFO]: avighnakc left the game
+[00:11:48] [Server thread/INFO]: MRLOL22 lost connection: Disconnected
+[00:11:48] [Server thread/INFO]: MRLOL22 left the game
+[00:13:13] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:53788] logged in with entity id 1042 at (576.2005650411776, 63.0, 518.6775270462371)
+[00:13:13] [Server thread/INFO]: avighnakc joined the game
+[00:13:15] [Server thread/INFO]: [Not Secure] <avighnakc> aarav
+[00:13:17] [Server thread/INFO]: [Not Secure] <avighnakc> find vilage
+[00:13:19] [Server thread/INFO]: [Not Secure] <avighnakc> get stick dude
+[00:13:32] [Server thread/INFO]: [Not Secure] <minleysforever> execute in minecraft:overworld run tp @s 679.69 69.00 -156.98 327.90 40.50
+[00:13:41] [Server thread/INFO]: [Not Secure] <avighnakc> i will not do that
+[00:13:48] [Server thread/INFO]: [avighnakc: Saved the game]
+[00:13:51] [Server thread/INFO]: [avighnakc: Made minleysforever a server operator]
+[00:13:53] [Server thread/INFO]: [avighnakc: Made minleysforever no longer a server operator]
+[00:15:11] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[00:15:11] [Server thread/INFO]: avighnakc left the game
+[00:16:07] [Server thread/INFO]: MRLOL22[/[0:0:0:0:0:0:0:1%0]:34044] logged in with entity id 2016 at (91.48131291197001, 63.0, -186.70968530727922)
+[00:16:07] [Server thread/INFO]: MRLOL22 joined the game
+[00:16:56] [Server thread/INFO]: [Not Secure] <MRLOL22> oi
+[00:17:08] [Server thread/INFO]: avighnakc[/[0:0:0:0:0:0:0:1%0]:51684] logged in with entity id 2454 at (591.6986531654151, 69.875, 568.213336742672)
+[00:17:08] [Server thread/INFO]: avighnakc joined the game
+[00:17:17] [Server thread/INFO]: [Not Secure] <avighnakc> 591 69 568
+[00:17:20] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[00:17:20] [Server thread/INFO]: avighnakc left the game
+[00:17:55] [Server thread/INFO]: [Not Secure] <MRLOL22> OI
+[00:17:59] [Server thread/INFO]: [Not Secure] <MRLOL22> WHERE U AT
+[00:18:04] [Server thread/INFO]: [Not Secure] <MRLOL22> AARAV
+[00:19:49] [Server thread/INFO]: [Not Secure] <MRLOL22> SLEEEEEEEEEEEEEP
+[00:19:56] [Server thread/INFO]: [Not Secure] <MRLOL22> minleysforeversleeeeeeeeep
+[00:20:16] [Server thread/INFO]: Spirderman[/[0:0:0:0:0:0:0:1%0]:58706] logged in with entity id 3525 at (-9.5, 70.0, -8.5)
+[00:20:16] [Server thread/INFO]: Spirderman joined the game
+[00:20:21] [Server thread/INFO]: [Not Secure] <Spirderman> yeo
+[00:20:34] [Server thread/INFO]: [Not Secure] <MRLOL22> who
+[00:20:40] [Server thread/INFO]: [Not Secure] <Spirderman> spirracket
+[00:20:46] [Server thread/INFO]: [Not Secure] <Spirderman> spiderracket
+[00:21:06] [Server thread/INFO]: avighnakc[/127.0.0.1:38808] logged in with entity id 4075 at (591.6986531654151, 69.875, 568.213336742672)
+[00:21:06] [Server thread/INFO]: avighnakc joined the game
+[00:21:15] [Server thread/INFO]: avighnakc lost connection: Disconnected
+[00:21:15] [Server thread/INFO]: avighnakc left the game
+[00:21:34] [Server thread/INFO]: minleysforever lost connection: Disconnected
+[00:21:34] [Server thread/INFO]: minleysforever left the game
+[00:21:37] [Server thread/INFO]: [Not Secure] <MRLOL22> GUYS SLEEEEEEPW
+[00:21:40] [Server thread/INFO]: minleysforever[/127.0.0.1:38662] logged in with entity id 4480 at (699.1393545636128, 66.0, -247.29300733065693)
+[00:21:40] [Server thread/INFO]: minleysforever joined the game
+[00:21:58] [Server thread/INFO]: [Not Secure] <minleysforever> bros
+[00:22:00] [Server thread/INFO]: [Not Secure] <minleysforever> sleep
+[00:22:03] [Server thread/INFO]: minleysforever lost connection: Disconnected
+[00:22:03] [Server thread/INFO]: minleysforever left the game
+[00:22:06] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aqy$1.run(SourceFile:102) [server-1.21.3.jar:?]
